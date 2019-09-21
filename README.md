@@ -5,6 +5,7 @@ Suicide Data is taken from [Kaggle](https://www.kaggle.com/russellyates88/suicid
 Code is adapted from the following resources: 
 
 https://www.youtube.com/watch?v=ZueoXMgCd1c
+
 https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
 
 Google Colab: https://colab.research.google.com/drive/1BPLJ1j5oIN9c00JJ99VpMLhp3QU1qNbA
